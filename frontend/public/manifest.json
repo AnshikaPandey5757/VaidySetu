@@ -1,0 +1,17 @@
+{
+  "short_name": "VaidyaSetu",
+  "name": "VaidyaSetu — Digital Case-Taking for Ayurvedic Clinical Practice",
+  "description": "The first case-taking tool that speaks NAMASTE, not just forms.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#f4f8f4",
+  "theme_color": "#294329",
+  "display": "standalone",
+  "orientation": "portrait"
+}
